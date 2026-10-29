@@ -1,0 +1,3 @@
+STEAM_ID = 76561198000000000
+FACEIT_API_KEY = "your-faceit-key"
+FACEIT_NICK = "YourFaceitNick"
